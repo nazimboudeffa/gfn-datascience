@@ -1,0 +1,8 @@
+/drivers
+/__pycache__
+
+privkey.py
+gfnpc.json
+steamlist.json
+gfnsteam-temp.csv
+gfnsteam.csv
